@@ -1,0 +1,15 @@
+{
+    "name": "twig2/app",
+    "description": "composer quest",
+    "autoload": {
+        "psr-4": {
+            "Twig2\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tolo"
+        }
+    ],
+    "require": {}
+}
